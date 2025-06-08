@@ -27,10 +27,14 @@ RAG Pipeline:
 4. **Generation**  
    - Use the Mistral LLM to generate a final answer using both the query and context
 
+**STREAMLIT UI**
 ![Streamlit UI](1.png)
 
+**RESPONSE TO USER QUERY** - based on the context of the research paper
 ![Response 1](2.png)
 
+**RESPONSE TO USER QUERY** - response to second question based on context of research paper and previous user history
 ![Response 2](3.png)
 
+**FILE STRUCTURE**
 ![File Structure](4.png)
