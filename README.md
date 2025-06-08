@@ -37,4 +37,5 @@ RAG Pipeline:
 ![Response 2](3.png)
 
 **FILE STRUCTURE**
+
 ![File Structure](4.png)
